@@ -30,5 +30,15 @@
             <artifactId>gson</artifactId>
             <version>2.10</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.maven</groupId>
+            <artifactId>maven-plugin-api</artifactId>
+            <version>3.9.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.maven</groupId>
+            <artifactId>maven-core</artifactId>
+            <version>3.9.0</version>
+        </dependency>
     </dependencies>
 </project>
